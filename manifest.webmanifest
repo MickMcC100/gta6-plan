@@ -1,0 +1,13 @@
+{
+  "name": "GTA 6 – First 10 Hours",
+  "short_name": "GTA 6 Plan",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#120a1f",
+  "theme_color": "#120a1f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
